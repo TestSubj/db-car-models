@@ -1,6 +1,7 @@
 {
     "brands": [
       {
+        "id": 1,
         "brand": "Ford",
         "models": [
           { "name": "F-150", "price": 35000, "year": 1948 },
@@ -11,6 +12,7 @@
         ]
       },
       {
+        "id": 2,
         "brand": "Kia",
         "models": [
           { "name": "Sportage", "price": 27000, "year": 1993 },
@@ -21,6 +23,7 @@
         ]
       },
       {
+        "id": 3,
         "brand": "Chevrolet",
         "models": [
           { "name": "Silverado", "price": 36000, "year": 1999 },
@@ -31,6 +34,7 @@
         ]
       },
       {
+        "id": 4,
         "brand": "Volkswagen",
         "models": [
           { "name": "Golf", "price": 24000, "year": 1974 },
@@ -41,6 +45,7 @@
         ]
       },
       {
+        "id": 5,
         "brand": "Hundai",
         "models": [
           { "name": "Elantra", "price": 21000, "year": 1990 },
@@ -51,6 +56,7 @@
         ]
       },
       {
+        "id": 6,
         "brand": "Mitsubishi",
         "models": [
           { "name": "Outlander", "price": 27000, "year": 2001 },
@@ -61,6 +67,7 @@
         ]
       },
       {
+        "id": 7,
         "brand": "Mercedes",
         "models": [
           { "name": "C-Class", "price": 44000, "year": 1993 },
@@ -71,6 +78,7 @@
         ]
       },
       {
+        "id": 8,
         "brand": "Audi",
         "models": [
           { "name": "A3", "price": 35000, "year": 1996 },
@@ -81,6 +89,7 @@
         ]
       },
       {
+        "id": 9,
         "brand": "Skoda",
         "models": [
           { "name": "Octavia", "price": 25000, "year": 1996 },
@@ -91,6 +100,7 @@
         ]
       },
       {
+        "id": 10,
         "brand": "Peugeot",
         "models": [
           { "name": "208", "price": 22000, "year": 2012 },
@@ -101,6 +111,7 @@
         ]
       },
       {
+        "id": 11,
         "brand": "Opel",
         "models": [
           { "name": "Corsa", "price": 21000, "year": 1982 },
