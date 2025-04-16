@@ -1,0 +1,115 @@
+{
+    "brands": [
+      {
+        "brand": "Ford",
+        "models": [
+          { "name": "F-150", "price": 35000, "year": 1948 },
+          { "name": "Mustang", "price": 29000, "year": 1964 },
+          { "name": "Explorer", "price": 33000, "year": 1990 },
+          { "name": "Escape", "price": 28000, "year": 2000 },
+          { "name": "Edge", "price": 31000, "year": 2006 }
+        ]
+      },
+      {
+        "brand": "Kia",
+        "models": [
+          { "name": "Sportage", "price": 27000, "year": 1993 },
+          { "name": "Sorento", "price": 31000, "year": 2002 },
+          { "name": "Optima", "price": 25000, "year": 2000 },
+          { "name": "Soul", "price": 21000, "year": 2008 },
+          { "name": "Telluride", "price": 34000, "year": 2019 }
+        ]
+      },
+      {
+        "brand": "Chevrolet",
+        "models": [
+          { "name": "Silverado", "price": 36000, "year": 1999 },
+          { "name": "Malibu", "price": 26000, "year": 1964 },
+          { "name": "Equinox", "price": 29000, "year": 2004 },
+          { "name": "Camaro", "price": 27000, "year": 1966 },
+          { "name": "Traverse", "price": 34000, "year": 2008 }
+        ]
+      },
+      {
+        "brand": "Volkswagen",
+        "models": [
+          { "name": "Golf", "price": 24000, "year": 1974 },
+          { "name": "Passat", "price": 27000, "year": 1973 },
+          { "name": "Tiguan", "price": 29000, "year": 2007 },
+          { "name": "Jetta", "price": 25000, "year": 1979 },
+          { "name": "Atlas", "price": 33000, "year": 2017 }
+        ]
+      },
+      {
+        "brand": "Hundai",
+        "models": [
+          { "name": "Elantra", "price": 21000, "year": 1990 },
+          { "name": "Sonata", "price": 24000, "year": 1985 },
+          { "name": "Tucson", "price": 26000, "year": 2004 },
+          { "name": "Santa Fe", "price": 29000, "year": 2000 },
+          { "name": "Palisade", "price": 35000, "year": 2018 }
+        ]
+      },
+      {
+        "brand": "Mitsubishi",
+        "models": [
+          { "name": "Outlander", "price": 27000, "year": 2001 },
+          { "name": "Lancer", "price": 23000, "year": 1973 },
+          { "name": "Eclipse", "price": 25000, "year": 1989 },
+          { "name": "Mirage", "price": 17000, "year": 1978 },
+          { "name": "Pajero", "price": 32000, "year": 1982 }
+        ]
+      },
+      {
+        "brand": "Mercedes",
+        "models": [
+          { "name": "C-Class", "price": 44000, "year": 1993 },
+          { "name": "E-Class", "price": 54000, "year": 1993 },
+          { "name": "S-Class", "price": 76000, "year": 1972 },
+          { "name": "GLC", "price": 51000, "year": 2015 },
+          { "name": "GLE", "price": 57000, "year": 1997 }
+        ]
+      },
+      {
+        "brand": "Audi",
+        "models": [
+          { "name": "A3", "price": 35000, "year": 1996 },
+          { "name": "A4", "price": 39000, "year": 1994 },
+          { "name": "A6", "price": 49000, "year": 1994 },
+          { "name": "Q5", "price": 45000, "year": 2008 },
+          { "name": "Q7", "price": 60000, "year": 2005 }
+        ]
+      },
+      {
+        "brand": "Skoda",
+        "models": [
+          { "name": "Octavia", "price": 25000, "year": 1996 },
+          { "name": "Superb", "price": 31000, "year": 2001 },
+          { "name": "Fabia", "price": 20000, "year": 1999 },
+          { "name": "Kodiaq", "price": 35000, "year": 2016 },
+          { "name": "Scala", "price": 23000, "year": 2019 }
+        ]
+      },
+      {
+        "brand": "Peugeot",
+        "models": [
+          { "name": "208", "price": 22000, "year": 2012 },
+          { "name": "308", "price": 26000, "year": 2007 },
+          { "name": "3008", "price": 33000, "year": 2008 },
+          { "name": "5008", "price": 37000, "year": 2009 },
+          { "name": "2008", "price": 27000, "year": 2013 }
+        ]
+      },
+      {
+        "brand": "Opel",
+        "models": [
+          { "name": "Corsa", "price": 21000, "year": 1982 },
+          { "name": "Astra", "price": 24000, "year": 1991 },
+          { "name": "Insignia", "price": 32000, "year": 2008 },
+          { "name": "Mokka", "price": 27000, "year": 2012 },
+          { "name": "Zafira", "price": 29000, "year": 1999 }
+        ]
+      }
+    ]
+  }
+  
